@@ -1,0 +1,8 @@
+numpy==1.24.3
+scikit-image
+Pillow>=10.0.0
+wandb>=0.16.0
+dominate>=2.8.0
+tqdm>=4.67.1
+opencv-python
+slideio
