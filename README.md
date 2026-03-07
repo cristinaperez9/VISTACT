@@ -316,6 +316,7 @@ Finally, in our study, we used virtual histological EvG staining to explore huma
 This work was partially funded by La Caixa Postgraduate Fellowship.
 
 # License and Terms of Use
+This code is made available under the CC-BY-NC-ND 4.0 License and is available for non-commercial academic purposes.
 
 # Acknowledgements
 The project was built on top of amazing repositories such as [Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git), and [SliVo](https://github.com/Fouga/SliVo). We thank the authors and developers for their contribution. 
