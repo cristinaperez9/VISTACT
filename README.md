@@ -1,6 +1,8 @@
 VISTACT: VIrtual histological STAining of micro-Computed Tomography<!-- omit in toc -->
 ===
 
+📄 [**Preprint**](https://www.biorxiv.org/content/10.1101/2025.10.02.678959v1) || 🔬 [**Dataset**](https://huggingface.co/datasets/cristinaperez9/VISTACT/)
+
 <img src="images/vistact_graph_.jpg"  /> 
 
 - [Getting started](#getting-started)
@@ -8,6 +10,7 @@ VISTACT: VIrtual histological STAining of micro-Computed Tomography<!-- omit in 
   - [1. Registration](#1-co-registration)
   - [2. Preprocessing](#2-preprocessing)
   - [3. Virtual staining](#3-virtual-staining)
+
 
 
 # Getting started
